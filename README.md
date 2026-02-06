@@ -7,6 +7,8 @@
 🔭 I’m currently working on: TCG Game/Deck Storage App, 👯 Looking to Collaborate on other projects!
 
 🛠 I'm Learning/Working With: JavaScript (Node.js), HTML (React, Vue.js, NUXT, CSS), Python, 
+
+https://github.com/copperfoxed/
 <!--
 **copperfoxed/copperfoxed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
