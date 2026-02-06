@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there! My name is Isabella Carter a.k.a copperfoxed 👋
 
+💾 Junior Full-stack Developer
+
+😄 Pronouns: She/It
+
+🔭 I’m currently working on: TCG Game/Deck Storage App, 👯 Looking to Collaborate on other projects!
+
+🛠 I'm Learning/Working With: JavaScript (Node.js), HTML (React, Vue.js, NUXT, CSS), Python, 
 <!--
 **copperfoxed/copperfoxed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
